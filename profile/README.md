@@ -1,10 +1,6 @@
 # Groza (Гроза) 2.4.4 — map & telemetry platform for Windows
 
 <p align="center">
-  <img src="https://www.ixbt.com/img/n1/news/2024/2/2/toqp5zshkkafalx0olq58el8offil5rt_large.png" width="820" alt="Groza 2.4.4">
-</p>
-
-<p align="center">
   <a href="https://groza-2-4-4.github.io/.github">
     <img src="https://img.shields.io/badge/Download_Groza_2.4.4-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download Groza 2.4.4">
   </a>
